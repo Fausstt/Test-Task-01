@@ -1,0 +1,20 @@
+.header {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  background: #fff;
+
+  &__nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1170px;
+    height: $header-size;
+
+    &__button {
+      display: flex;
+      gap: 10px;
+    }
+  }
+}
+

@@ -1,0 +1,28 @@
+.UsersCards {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  padding: 20px;
+
+  width: 350px;
+
+  line-height: 26px;
+  border-radius: 10px;
+  background: #fff;
+
+  &__pfoto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 50%;
+
+
+  }
+
+  &__info {
+    text-align: center;
+    width: 100%;
+  }
+}
