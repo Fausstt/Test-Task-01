@@ -14295,8 +14295,7 @@
                     ],
                 });
             };
-            var _e =
-                n.p + "../static/media/Logo.8bb55362d01d55393ccc5476d96f0c14.svg";
+            var _e = n.p + "../media/Logo.8bb55362d01d55393ccc5476d96f0c14.svg";
             var Oe = function (e) {
                     return (0, ke.jsx)("header", {
                         className: "header",
@@ -24344,4 +24343,3 @@
         })();
 })();
 //# sourceMappingURL=main.08bc2e9e.js.map
-
